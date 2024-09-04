@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/kalyani-singh-1602](www.linkedin.com/in/kalyani-singh-1602)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
