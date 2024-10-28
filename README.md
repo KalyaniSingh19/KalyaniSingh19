@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Kalyani Singh</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently learning **Power BI and Tableau**
+- 🌱 I’m currently learning **LLM Modelling and NLP**
 
 - 📫 How to reach me **tammanah2002@gmail.com**
 
