@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tammanah2002@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/kalyani-singh-1602](www.linkedin.com/in/kalyani-singh-1602)
+- 📄 Know about my experiences [www.linkedin.com/in/kalyani-singh-1602](https://www.linkedin.com/in/kalyani-singh-1602/)
 
 <p align="left">
 </p>
