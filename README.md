@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Kalyani Singh</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently learning **LLM Modelling and NLP**
+- 🌱 I’m currently learning **LLM Modelling**
 
-- 📫 How to reach me **tammanah2002@gmail.com**
+- 📫 Reach me at **tammanah2002@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/kalyani-singh-1602](https://www.linkedin.com/in/kalyani-singh-1602/)
+- 📄 Work History [www.linkedin.com/in/kalyani-singh-1602](https://www.linkedin.com/in/kalyani-singh-1602/)
 
 <p align="left">
 </p>
